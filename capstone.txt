@@ -10,5 +10,4 @@ Drilling simple git/hub sequence as capstone:
 - undo a bad local edit
 - undo a bad commit
 
-
-*edit
+pull request?
