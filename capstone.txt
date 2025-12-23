@@ -9,3 +9,6 @@ Drilling simple git/hub sequence as capstone:
 - resolve a conflict if it happens
 - undo a bad local edit
 - undo a bad commit
+
+
+*edit
