@@ -1,0 +1,11 @@
+Drilling simple git/hub sequence as capstone:
+
+- clone a repo
+- create and switch to a new branch
+- make a small change
+- commit + push to a new branch
+- pull latest main
+- merge main into your branch
+- resolve a conflict if it happens
+- undo a bad local edit
+- undo a bad commit
