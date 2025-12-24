@@ -1,0 +1,15 @@
+Drilling simple git/hub sequence as Capstone:
+
+- clone github repo
+- create and switch to a new branch called 'feature'
+- modify files and stage changes
+- confirm file staging
+- simulate mistake and resolve
+- re-stage and commit changes
+- view commit history
+- undo bad commit
+- re-commit and push changes to project
+- [On GitHub] pull request, merge branches, modify file
+- pull latest main
+
+test
