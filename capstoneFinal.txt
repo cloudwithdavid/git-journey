@@ -6,9 +6,9 @@ Drilling simple git/hub sequence as Capstone:
 - confirm file staging (git status)
 - simulate mistake and resolve (restore --staged)
 - re-stage and commit changes (git commit)
-- view commit history (git log)
-- undo bad commit (reset --soft)
+- view commit history (git log --oneline)
+- undo bad [un-pushed] commit (reset --soft HEAD~1)
 - re-commit and push changes to project (git push -u origin)
 - [On GitHub] pull request, merge branches, modify file
-- pull latest main (git pull)
+- switch to main and pull latest changes (git pull)
 - clean workspace (git branch -d)
