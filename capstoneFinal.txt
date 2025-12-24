@@ -11,5 +11,3 @@ Drilling simple git/hub sequence as Capstone:
 - re-commit and push changes to project
 - [On GitHub] pull request, merge branches, modify file
 - pull latest main
-
-test
