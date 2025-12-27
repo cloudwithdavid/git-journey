@@ -1,2 +1,1 @@
-Git/GitHub fundamentals  
-https://youtu.be/mAFoROnOfHs?si=sKoVEArua23HQtPH
+Git/GitHub fundamentals
